@@ -5,11 +5,11 @@ An interactive first-person exploration game built with Unity. Navigate through 
 ![Unity 6](https://img.shields.io/badge/Unity-6.0_LTS-black?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Language-green?logo=csharp)
 
-## 📄 About the Project
+## About the Project
 This project is a Full-Stack game prototype developed in **Unity** to demonstrate 3D physics, collision handling, and first-person mechanics. 
 Unlike simple 3D projects, this version features a fully realized 3D environment where player state (victory or loss) is determined by real-time interaction with world objects.
 
-## 📸 Visuals
+## Visuals
 To demonstrate the environment and gameplay mechanics, here are some in-game screenshots:
 
 | Exterior View | Interior Exploration | Objective Hunt |
@@ -18,7 +18,7 @@ To demonstrate the environment and gameplay mechanics, here are some in-game scr
 
 > *Images showing the marble architecture and the challenge cubes.*
 
-## ⚙️ Technical Features
+## Technical Features
 
 ### Player Controller (`ControleJogador.cs`)
 The core movement logic resides in the `Update` loop, ensuring responsive controls:
