@@ -14,7 +14,7 @@ To demonstrate the environment and gameplay mechanics, here are some in-game scr
 
 | Exterior View | Interior Exploration | Objective Hunt |
 | :---: | :---: | :---: |
-| <img src="Screenshots/Screenshot_ext.jpg" height="200"> | <img src="Screenshots/Screenshot_int1.jpg" height="200"> | <img src="Screenshots/Screenshot_int2.jpg" height="200"> |
+| <img src="https://github.com/ailton-santos/CubeGame/blob/main/Screenshots/Screenshot%20from%202026-02-13%2013-26-07.png" height="200"> | <img src="https://github.com/ailton-santos/CubeGame/blob/main/Screenshots/Screenshot%20from%202026-02-13%2013-30-32.png" height="200"> | <img src="https://github.com/ailton-santos/CubeGame/blob/main/Screenshots/Screenshot%20from%202026-02-13%2013-31-07.png" height="200"> |
 
 > *Images showing the marble architecture and the challenge cubes.*
 
